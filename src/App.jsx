@@ -12,7 +12,7 @@ function App() {
     styleButtonText: "Submit Your Feedback",
     opinionMagnetBackendUrl:
       "https://api-opinion-magnet.adaptable.app/api/feedback",
-    opinionMagnetAccessToken: "6598398f064ff6a83e53c53c3141e991c67b9d30",
+    opinionMagnetAccessToken: "b5199811532f626ba4ed7f31f526412ab0020c18",
     opinionMagnetCompanyId: "65bd628291908372b099950b",
   };
 
